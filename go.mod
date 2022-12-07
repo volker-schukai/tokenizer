@@ -1,4 +1,4 @@
-module github.com/bzick/tokenizer
+module github.com/volker-schukai/tokenizer
 
 go 1.13
 
